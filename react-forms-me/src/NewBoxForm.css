@@ -1,0 +1,22 @@
+label{
+    color:  white;
+    margin: 10px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+input{
+    border: white solid 5px;
+    border-radius: 25%;
+    text-decoration: none;
+}
+
+button{
+    margin:20px;
+}
+
+
